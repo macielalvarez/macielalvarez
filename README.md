@@ -1,4 +1,4 @@
-# Maciel Álvarez
+#   Vanina Maciel Alvarez Segovia
 
 **Graduada en Ingeniería Informática · Frontend Developer · IT Support**
 
