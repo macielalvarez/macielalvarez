@@ -26,6 +26,7 @@ Actualmente estoy buscando nuevos retos y oportunidades que me permitan seguir a
 
 ## Proyectos destacados
 ### [Rock & Robobites](https://github.com/macielalvarez/rock---robobites-restaurant.git)
+**HTML · CSS · JavaScript · Canvas 2D · Three.js · Geolocalización**
 Web interactiva para un restaurante futurista donde los robots preparan y sirven la comida. Incluye menú, eventos musicales, reservas online, geolocalización y dos juegos interactivos: uno en 2D con Canvas y otro en 3D desarrollado con Three.js.
 
 ## Formación y certificaciones
