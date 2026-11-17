@@ -25,6 +25,7 @@ Actualmente estoy buscando nuevos retos y oportunidades que me permitan seguir a
 - **Soporte IT:** Atención a usuarios, gestión de incidencias técnicas, resolución de problemas en sistemas de punto de venta y soporte de infraestructura.
 
 ## Proyectos destacados
+### [Rock & Robobites](https://github.com/macielalvarez/rock---robobites-restaurant.git)
 
 
 ## Formación y certificaciones
